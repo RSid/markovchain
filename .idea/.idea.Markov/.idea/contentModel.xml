@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\alla.hoffman\.Rider2017.3\system\resharper-host\local\Transient\ReSharperHost\v11\SolutionCaches\_Markov.-227958230.00" t="ExcludeRecursive" />
+    <e p="C:\Users\alla.hoffman\RiderProjects\Markov" t="IncludeRecursive">
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Markov.csproj" t="IncludeRecursive" />
+      <e p="Markov.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp2.0" t="Include">
+            <e p="Markov.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Program.cs" t="Include" />
+    </e>
+  </component>
+</project>

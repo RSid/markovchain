@@ -1,0 +1,10 @@
+C:\Users\alla.hoffman\RiderProjects\Markov\obj\Debug\netcoreapp2.0\Markov.csproj.CoreCompileInputs.cache
+C:\Users\alla.hoffman\RiderProjects\Markov\obj\Debug\netcoreapp2.0\Markov.AssemblyInfoInputs.cache
+C:\Users\alla.hoffman\RiderProjects\Markov\obj\Debug\netcoreapp2.0\Markov.AssemblyInfo.cs
+C:\Users\alla.hoffman\RiderProjects\Markov\bin\Debug\netcoreapp2.0\Markov.deps.json
+C:\Users\alla.hoffman\RiderProjects\Markov\bin\Debug\netcoreapp2.0\Markov.runtimeconfig.json
+C:\Users\alla.hoffman\RiderProjects\Markov\bin\Debug\netcoreapp2.0\Markov.runtimeconfig.dev.json
+C:\Users\alla.hoffman\RiderProjects\Markov\bin\Debug\netcoreapp2.0\Markov.dll
+C:\Users\alla.hoffman\RiderProjects\Markov\bin\Debug\netcoreapp2.0\Markov.pdb
+C:\Users\alla.hoffman\RiderProjects\Markov\obj\Debug\netcoreapp2.0\Markov.dll
+C:\Users\alla.hoffman\RiderProjects\Markov\obj\Debug\netcoreapp2.0\Markov.pdb
